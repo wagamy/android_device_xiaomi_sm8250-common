@@ -145,7 +145,6 @@ endif
 
 # Device-specific settings
 PRODUCT_PACKAGES += \
-    XiaomiParts \
     DSPVolumeSynchronizer
 
 # Do not generate libartd.
